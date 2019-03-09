@@ -1,3 +1,7 @@
 #virtual machine configuration
 
-hostname: "alexhost"
+hostname{
+  name:alexhost
+}
+
+
